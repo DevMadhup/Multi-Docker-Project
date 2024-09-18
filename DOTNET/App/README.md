@@ -19,8 +19,8 @@ MyWebApp is a basic ASP.NET Core MVC application that demonstrates how to build,
 - Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/MyWebApp.git
-cd MyWebApp
+git clone https://github.com/DevMadhup/Multi-Docker-Project.git
+cd DOTNET/App
 ```
 
 ### 2. Build and Run Locally 
